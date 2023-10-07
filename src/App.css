@@ -1,0 +1,23 @@
+.App {
+  background-color: black;
+  width: 100%;
+  height: 100vh;
+}
+
+.btn {
+  background-color: beige;
+  border: 1px solid peru;
+  padding: 1em;
+  border-radius: 0em;
+  color: blue;
+  cursor: pointer;
+  width: 10%;
+}
+
+.darkMode {
+  background-color: black;
+}
+
+.lightMode {
+  background-color: grey;
+}
